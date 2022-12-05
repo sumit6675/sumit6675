@@ -21,7 +21,7 @@
 <img src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png" alt="logo"/>
 
 ## 🚀 About Me
-I'm a full stack developer with Nine months Course of FULL-STACK Web development with 9-9-6 and 11-11-6 curriculum From Masai School (Bengaluru) and Mechanical Engineer graduate with First Class with Distinction from the Savitribai Phule (Pune) University, Looking to deliver excellent web development skills in Javascript, ReactJS, Redux, NodeJS, HTML, CSS, and Data Structures and Algorithms(DSA)
+I'm a  developer with Nine months Course of FULL-STACK Web development with 9-9-6 and 11-11-6 curriculum From Masai School (Bengaluru) and Mechanical Engineer graduate with First Class with Distinction from the Savitribai Phule (Pune) University, Looking to deliver excellent web development skills in Javascript, ReactJS, Redux, NodeJS, HTML, CSS, and Data Structures and Algorithms(DSA)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumit6675&theme=onedark)
 
