@@ -14,14 +14,16 @@
   </a>
 </div>
   </div>
-
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width ="50px"/>
+  
+  <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width ="50px"/>
   , I'm Sumit Chimkar</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
-<img src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png" alt="logo"/>
-
+  
 ## 🚀 About Me
 I'm a  developer with Nine months Course of FULL-STACK Web development with 9-9-6 and 11-11-6 curriculum From Masai School (Bengaluru) and Mechanical Engineer graduate with First Class with Distinction from the Savitribai Phule (Pune) University, Looking to deliver excellent web development skills in Javascript, ReactJS, Redux, NodeJS, HTML, CSS, and Data Structures and Algorithms(DSA)
+
+
+<img src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png" alt="logo"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumit6675&theme=onedark)
 
