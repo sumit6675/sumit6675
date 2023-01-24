@@ -24,14 +24,20 @@ I'm a  developer with Nine months Course of FULL-STACK Web development with 9-9-
 
 
 <img src="https://cdn.dribbble.com/users/2269119/screenshots/18884777/media/4a0905c541c2e1d12e0f0a1e87d01eed.png" alt="logo"/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sumit6675&theme=onedark)
-
-![sumitStats](https://github-readme-stats.vercel.app/api?username=sumit6675&theme=radical)
-
-![langg](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-
 <br/>
+<br/>
+<h1 align="center">📊 Github Stack</h1>
+<br/>
+<br/>
+ <div align="center">
+ <img src="https://camo.githubusercontent.com/c8422c98aac1a895d67c7ddd8af3c59a48422dde530b6d3a45b2d9547559567d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73756d697436363735267468656d653d6f6e656461726b" align="center" alt="githubStat1">
+  <br/>
+  <br/>
+ <img src = "https://camo.githubusercontent.com/73f02d208c0946c0c6b812378a5f50ab35db7b8b14a7270f399f204543867f39/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73756d697436363735267468656d653d7261646963616c" align="center" alt="githubStat2">
+  <br/>
+  <br/>
+ <img src="https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261"  align="center" alt="githubStat3" />
+</div>
 <br/>
 <br/>
 <br/>
